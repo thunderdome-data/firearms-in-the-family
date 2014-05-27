@@ -7,6 +7,7 @@ These are stories of young people and families across America, many of whom shar
 
 Live demo: http://data.digitalfirstmedia.com/guns/
 
+![Families and firearms](screenshots/guns.png)
 
 Credits
 ---------
